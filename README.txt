@@ -1,6 +1,6 @@
 About the program & Dependencies:
 
-This is a simple tool that can be used to convert a python program into an executeable program, made by Sandman2-0.
+This is a simple tool that can be used to convert a python program into an executable program, made by Sandman2-0.
 This program combines pyinstaller with a visual user interface to make for a quick compiling experience.
 
 To use this program, you will need to install the following:
