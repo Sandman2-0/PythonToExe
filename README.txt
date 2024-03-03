@@ -22,7 +22,7 @@ Upon launching the program:
     -Compile to One File (Compiles the program and all it's dependencies into one singular EXE)
     -No Console (Make the program launch without a console. Good for visual UI programs)
 
-Wait for the conversion process to finish, then find the executable file withion the "dist" folder in the same directory as this program.
+Wait for the conversion process to finish, then find the executable file within the "dist" folder in the same directory as this program.
 Prior to first using the program, there will not be any related folders within the file's directory.
 
 
