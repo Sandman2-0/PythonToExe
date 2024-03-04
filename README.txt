@@ -2,6 +2,7 @@ About the program & Dependencies:
 
 This is a simple tool that can be used to convert a python program into an executable program, made by Sandman2-0.
 This program combines pyinstaller with a visual user interface to make for a quick compiling experience.
+----------------------------------------------------------------------------------------------------------------------------------------------
 
 To use this program, you will need to install the following:
     1. Python
@@ -11,8 +12,12 @@ To use this program, you will need to install the following:
 >pip install Tk
 >pip install pyinstaller
 
-Please note: this program was only tested on version 3.9.0 of Python, but should work with other versions.
+or 
 
+Use the package_installer provided
+
+Please note: this program was only tested on version 3.9.0 of Python, but should work with other versions.
+----------------------------------------------------------------------------------------------------------------------------------------------
 
 Usage:
 
@@ -24,7 +29,7 @@ Upon launching the program:
 
 Wait for the conversion process to finish, then find the executable file within the "dist" folder in the same directory as this program.
 Prior to first using the program, there will not be any related folders within the file's directory.
-
+----------------------------------------------------------------------------------------------------------------------------------------------
 
 License:
 
