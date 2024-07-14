@@ -11,7 +11,7 @@ To use this program, install the provided [executable file](https://github.com/S
 <br/>- Tkinter
 
     pip install Tk
-<br/>- pyinstaller
+<br/>- pyinstaller (Required for the EXE as well)
 
     pip install pyinstaller
 
