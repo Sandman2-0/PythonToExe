@@ -3,7 +3,7 @@
 This is a simple tool that can be used to convert a python program into an executable program, made by Sandman2-0.
 This program combines pyinstaller with a visual user interface to make for a quick compiling experience.
 
-To use this program, you will need to install the following:
+To use this program, install the provided [executable file](https://github.com/Sandman2-0/PythonToExe/blob/main/compiler.exe) or install the following dependencies to use the [python file](https://github.com/Sandman2-0/PythonToExe/blob/main/compiler.py):
 <br/>- Python
 
     tested on version 3.9.0 of Python, but should work with other versions.
@@ -21,7 +21,7 @@ Use the [package installer](https://github.com/Sandman2-0/PythonToExe/blob/main/
 
 # Usage:
 
-Upon launching the program ([compiler.py](https://github.com/Sandman2-0/PythonToExe/blob/main/compiler.py)):
+Upon launching the program ([compiler.exe](https://github.com/Sandman2-0/PythonToExe/blob/main/compiler.exe) or [compiler.py](https://github.com/Sandman2-0/PythonToExe/blob/main/compiler.py)):
 - Click browse, then find the file you would like to compile.
 - Check each box based on how you wish to compile the program.
     <br/>-> Compile to One File (Compiles the program and all it's dependencies into one singular EXE)
