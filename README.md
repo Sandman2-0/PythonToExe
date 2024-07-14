@@ -21,11 +21,13 @@ Use the [package installer](https://github.com/Sandman2-0/PythonToExe/blob/main/
 
 # Usage:
 
-Upon launching the program:
+Upon launching the program ([compiler.py](https://github.com/Sandman2-0/PythonToExe/blob/main/compiler.py)):
 - Click browse, then find the file you would like to compile.
 - Check each box based on how you wish to compile the program.
     <br/>-> Compile to One File (Compiles the program and all it's dependencies into one singular EXE)
     <br/>-> No Console (Make the program launch without a console. Good for visual UI programs)
+
+  ![alt text](https://github.com/Sandman2-0/PythonToExe/blob/main/preview.jpg)
 
 Wait for the conversion process to finish, then find the executable file within the "dist" folder in the same directory as this program.
 Prior to first using the program, there will not be any related folders within the file's directory.
